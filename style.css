@@ -22,3 +22,16 @@
     font-size: larger;
     font-family: sans-serif;
   }
+
+/* Giving the .post element margin on 3 sides */
+.post {
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+
+/* Changing the color of Data */
+
+.header {
+    color: #2e8a8a;
+}
